@@ -1,4 +1,6 @@
 # Simple Calculator in Ruby
+[![CodeFactor](https://www.codefactor.io/repository/github/ankurpatel18/ruby-simple-calc-devops/badge)](https://www.codefactor.io/repository/github/ankurpatel18/ruby-simple-calc-devops)
+
 DevOps Scripting Basics Project - For Simple Calculator using Ruby
 
 
